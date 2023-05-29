@@ -48,10 +48,8 @@ I love the entire process of developing creative websites.
 <br/>
 
 - 📫 How to reach me ...
-<a href="www.linkedin.com/in/aanand-kushwaha/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="may  | LinkedIn" width="21px"/></a>
+<a href="[www.linkedin.com/in/aanand-kushwaha/](https://www.linkedin.com/in/aanand-kushwaha/)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="may  | LinkedIn" width="21px"/></a>
 </br>
-
-- 🌱 I’m currently learning ...
 ## 🔭 I'm currently working on
 
 - Old projects
