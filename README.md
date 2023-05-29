@@ -30,19 +30,19 @@ https://technog.netlify.app/#
 https://react-todo-ak.netlify.app/
 <br/>
 <h5>Skil used</h5>
-<h5> ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) / CSS </h5>
+<div>HTML / CSS </div>
 https://email-inline-html-page.netlify.app/
 <br/>
 <h5>Skil used</h5>
-<h5>React js/ Nodejs /CSS </h5>
+<div>React js/ Nodejs /CSS </div>
 https://ecommerce-ak.netlify.app/
 <br/>
 <br/>
 - 📫 How to reach me ...
-- </div><a src="https://www.linkedin.com/in/aanand-kushwaha/" alt="LinkedIn profile">Aanand kushwaha
+- </div> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
 </div>
+https://www.linkedin.com/in/aanand-kushwaha/
 
 ## 🔭 I'm currently working on
 
