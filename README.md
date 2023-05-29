@@ -21,27 +21,27 @@ I'm a Full-Stack Web Developer 💻, <img src="https://media.giphy.com/media/WUl
 <br/> 
 
 ## 🔭 My All Projects Links  =>
-<h4>Skil used</h4>
-<h5>HTML CSS </h5>
+<h5>Skil used</h5>
+<h6>HTML CSS </h6>
 https://technog.netlify.app/#
 <br/>
-<h4>Skil used</h4>
+<h5>Skil used</h5>
 <h5>React js/ CSS</h5>
 https://react-todo-ak.netlify.app/
 <br/>
-<h4>Skil used</h4>
+<h5>Skil used</h5>
 <h5>HTML/ CSS </h5>
 https://email-inline-html-page.netlify.app/
 <br/>
-<h4>Skil used</h4>
+<h5>Skil used</h5>
 <h5>React js/ Nodejs /CSS </h5>
 https://ecommerce-ak.netlify.app/
 <br/>
-
+<br/>
 - 📫 How to reach me ...
-- </div>
+- </div><a src="https://www.linkedin.com/in/aanand-kushwaha/" alt="LinkedIn profile">Aanand kushwaha
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- View My Profile Page =>> https://www.linkedin.com/in/aanand-kushwaha/
+ </a>
 </div>
 
 ## 🔭 I'm currently working on
