@@ -22,15 +22,15 @@ I'm a Full-Stack Web Developer 💻, <img src="https://media.giphy.com/media/WUl
 
 ## 🔭 My All Projects Links  =>
 <h5>Skil used</h5>
-<h6>HTML CSS </h6>
+<div>HTML CSS </div>
 https://technog.netlify.app/#
 <br/>
 <h5>Skil used</h5>
-<h5>React js/ CSS</h5>
+<div>React js </div>
 https://react-todo-ak.netlify.app/
 <br/>
 <h5>Skil used</h5>
-<h5>HTML/ CSS </h5>
+<h5> ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) / CSS </h5>
 https://email-inline-html-page.netlify.app/
 <br/>
 <h5>Skil used</h5>
