@@ -11,6 +11,7 @@ I love the entire process of developing creative websites.
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Node%20js-Node%20js-green)
 </br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
@@ -42,7 +43,7 @@ I love the entire process of developing creative websites.
 - 📫 How to reach me ...
 - </div>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="[www.linkedin.com/in/aanand-kushwaha/](https://www.linkedin.com/in/aanand-kushwaha/)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="may  | LinkedIn" width="21px"/></a>
+  <a href="https://www.linkedin.com/in/aanand-kushwaha/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="may  | LinkedIn" width="21px"/></a>
 </br>
 </div>
 
