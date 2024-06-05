@@ -21,19 +21,23 @@ I'm a Full-Stack Web Developer 💻, <img src="https://media.giphy.com/media/WUl
 <br/> 
 
 ## 🔭 My All Projects Links:
-<h5>Skil used</h5>
+<h5>Skills used</h5>
+<div>React js / Material Ui / HTML / CSS /JavaScript / Formik / jsPDF</div>
+https://portal.klaxonadvisory.co.in/#
+<br/>
+<h5>Skills used</h5>
 <div>HTML CSS </div>
 https://technog.netlify.app/#
 <br/>
-<h5>Skil used</h5>
+<h5>Skills used</h5>
 <div>React js </div>
 https://react-todo-ak.netlify.app/
 <br/>
-<h5>Skil used</h5>
+<h5>Skills used</h5>
 <div>HTML / CSS </div>
 https://email-inline-html-page.netlify.app/
 <br/>
-<h5>Skil used</h5>
+<h5>Skills used</h5>
 <div>React js/ Nodejs /CSS </div>
 https://ecommerce-ak.netlify.app/
 <br/>
