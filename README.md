@@ -41,6 +41,10 @@ https://email-inline-html-page.netlify.app/
 <div>React js/ Nodejs /CSS </div>
 https://ecommerce-ak.netlify.app/
 <br/>
+<h5>Skills used</h5>
+<div> HTML/ CSS/ SCSS/JavaScript /Bootstrap</div>
+https://techpaathshala.com/
+<br/>
 <br/>
 - 📫 How to reach me ...
 - </div> 
