@@ -30,7 +30,7 @@ https://food-web-bootstrap-5.netlify.app/
 https://techpaathshala.com/
 <br/>
 <h5>Skills used</h5>
-<div> HTML/ CSS/JavaScript/Bootstrap </div> tpstps://amipiya.netlify.app/
+<div> HTML/ CSS/JavaScript/Bootstrap </div> https://amipiya.netlify.app/
 <br/>
 <h5>Skills used</h5>
 <div>React js / Material Ui / HTML / CSS /JavaScript / Formik / jsPDF</div>
