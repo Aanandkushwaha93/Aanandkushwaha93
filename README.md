@@ -22,6 +22,17 @@ I'm a Full-Stack Web Developer 💻, <img src="https://media.giphy.com/media/WUl
 
 ## 🔭 My All Projects Links:
 <h5>Skills used</h5>
+<div>HTML CSS JavaScript Bootstrap </div>
+https://food-web-bootstrap-5.netlify.app/
+<br/>
+<h5>Skills used</h5>
+<div> HTML/ CSS/ SCSS/JavaScript /Bootstrap</div>
+https://techpaathshala.com/
+<br/>
+<h5>Skills used</h5>
+<div> HTML/ CSS/JavaScript/Bootstrap </div> tpstps://amipiya.netlify.app/
+<br/>
+<h5>Skills used</h5>
 <div>React js / Material Ui / HTML / CSS /JavaScript / Formik / jsPDF</div>
 https://portal.klaxonadvisory.co.in/#
 <br/>
@@ -40,10 +51,6 @@ https://email-inline-html-page.netlify.app/
 <h5>Skills used</h5>
 <div>React js/ Nodejs /CSS </div>
 https://ecommerce-ak.netlify.app/
-<br/>
-<h5>Skills used</h5>
-<div> HTML/ CSS/ SCSS/JavaScript /Bootstrap</div>
-https://techpaathshala.com/
 <br/>
 <br/>
 - 📫 How to reach me ...
